@@ -1,6 +1,6 @@
 
 import { useEffect, useReducer } from "react"
-import { todoReducer } from "../09-useReducer/todoReducer"
+import { todoReducer } from "./todoReducer"
 
 
 // Estado inicial del hook useReducer
